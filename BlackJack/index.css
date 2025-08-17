@@ -1,0 +1,32 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: "Syne Mono", monospace;
+  text-align: center;
+  font-weight: bold;
+}
+
+h1 {
+  color: goldenrod;
+}
+
+#message-el {
+  font-style: italic;
+}
+
+#start-btn,
+#new-card-btn,
+#reset-btn {
+  color: #016f32;
+  width: 150px;
+  border: none;
+  border-radius: 20px;
+  background-color: goldenrod;
+  font-weight: bold;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+button {
+  margin: 5px;
+}
