@@ -33,6 +33,10 @@ button:hover {
   background-color: #40632c;
 }
 
+#delete-btn {
+  background-color: #d9534f;
+}
+
 ul {
   list-style-type: none;
   padding-left: 0px;

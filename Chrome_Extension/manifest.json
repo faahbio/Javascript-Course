@@ -7,7 +7,7 @@
     "default_popup": "index.html",
     "default_icon": "icon48.png"
   },
-  "permissions": ["storage"],
+  "permissions": ["tabs"],
   "icons": {
     "48": "icon48.png",
     "128": "icon128.png"
